@@ -1,2 +1,4 @@
 # mediacam
 Softcam
+Soft
+Cam
